@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh Chernoff (Чернов) @joshchernoff
-- 🤝 I'm hirable for either contract or full time. $75 per hour Contracting, 125k Fulltime USD. 
+- 🤝 I'm hirable for either contract or full time. $75 per hour Contracting, 150k Fulltime USD. 
 - 🧭 I'm open to remote work or on locatin in Portland Oregon. Possibly willing to relocate given the opertunities. 
 - 👀 I’m interested in Elixir/Phoenix/LiveView, Alpine JS, TailwindCSS
 - 🌱 I’m currently learning OTP and distrobuted Elixir
