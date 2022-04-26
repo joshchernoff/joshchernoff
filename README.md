@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning OTP and distrobuted Elixir
 - 📫 How to reach me jchernoff@morphic.pro
 - 📚 Books I recommend [Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook), [Concurrent Data Processing in Elixir](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/), [Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
+- 🧳 My slightly out of date resume, last few years has been contracting. https://github.com/joshchernoff/joshchernoff/raw/main/resume.pdf
 - 💻 My current side project is [https://opalnova.com](https://github.com/MorphicPro/opal_nova)
 
 <!---
